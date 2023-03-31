@@ -1,6 +1,6 @@
 Name:		texlive-kurdishlipsum
 Version:	47518
-Release:	1
+Release:	2
 Summary:	A 'lipsum' package for the Kurdish language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kurdishlipsum
